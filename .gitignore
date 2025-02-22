@@ -1,2 +1,6 @@
 #Ignorar essa pasta
 .vscode/
+
+#Arquivos
+*.exe
+*.class
