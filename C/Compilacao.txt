@@ -1,0 +1,5 @@
+Compilação
+    gcc arquivo.c -o arquivo
+
+Execução
+    ./arquivo

@@ -1,0 +1,5 @@
+Compilação:
+    ghc Main.hs -o main
+
+Execução
+    ./main
