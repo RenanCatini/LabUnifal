@@ -3,3 +3,7 @@ Para compilar:
 
 Para executar:
     java nome_arquivo
+
+Para mudar entre as versões do Java e do javac  
+    sudo update-alternatives --config java
+    sudo update-alternatives --config javac
